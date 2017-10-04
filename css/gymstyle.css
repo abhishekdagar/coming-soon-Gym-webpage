@@ -1,0 +1,35 @@
+body{
+    background: url(../images/bg_gym.jpeg) no-repeat center center fixed;
+    background-size: cover;
+    font-family: 'Lobster', cursive;
+}
+
+div{
+    background-color:#ff5e00;
+    width: 40%;
+    margin: 180px auto;
+    text-align: center;
+    border-radius: 25px;
+    opacity: .8;
+}
+
+button{
+    background-color: rgba(50,50,50);
+    padding: 18px;
+    color: black;
+    border-radius: 18px;
+    font-size: 2em;
+}
+
+h1{
+    font-size: 3em;
+}
+
+p{
+    font-size: 1.5em;
+}
+
+i{
+/*    font-size: 3em;*/
+    color: white;  
+}
